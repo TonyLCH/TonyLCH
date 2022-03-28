@@ -1,1 +1,1 @@
-(dino.gif)
+[!(dino.gif)]
