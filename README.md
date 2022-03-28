@@ -1,1 +1,1 @@
-[![TonyLCH](dino.gif)]
+![TonyLCH](dino.gif)
